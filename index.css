@@ -37,6 +37,7 @@ body {
 /* Set up container to center */
 .container {
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
 }
